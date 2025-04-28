@@ -63,7 +63,7 @@ const Home = () => {
       <section className="relative h-screen flex items-center">
         <div className="absolute inset-0 bg-hero-pattern bg-cover bg-center">
           <div className="absolute inset-0 bg-black bg-opacity-60">
-            <img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/93cbf724467931.5635f4b1f1f30.jpg' 
+            <img src='src\assets\frente-loja.jpg' 
             alt='background' 
             className='w-full h-full object-cover'
             />

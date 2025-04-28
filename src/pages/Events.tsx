@@ -37,31 +37,7 @@ const Events = () => {
       image: 'https://images.pexels.com/photos/7091906/pexels-photo-7091906.jpeg?auto=compress&cs=tinysrgb&w=1600'
     }
   ];
-  
-
-  const pastEvents = [
-    {
-      title: 'Confraternização Empresa ABC',
-      description: 'Evento para 150 pessoas com menu premium e open bar.',
-      image: 'https://images.pexels.com/photos/5669788/pexels-photo-5669788.jpeg?auto=compress&cs=tinysrgb&w=300'
-    },
-    {
-      title: 'Casamento Jardim',
-      description: 'Serviço de espetinhos para 200 convidados em evento ao ar livre.',
-      image: 'https://images.pexels.com/photos/1114425/pexels-photo-1114425.jpeg?auto=compress&cs=tinysrgb&w=300'
-    },
-    {
-      title: 'Aniversário 40 Anos',
-      description: 'Celebração especial com menu personalizado e bar de espetinhos.',
-      image: 'https://images.pexels.com/photos/995743/pexels-photo-995743.jpeg?auto=compress&cs=tinysrgb&w=300'
-    },
-    {
-      title: 'Festival Gastronômico',
-      description: 'Participação com estande exclusivo oferecendo nossos espetinhos premium.',
-      image: 'https://images.pexels.com/photos/2253644/pexels-photo-2253644.jpeg?auto=compress&cs=tinysrgb&w=300'
-    }
-  ];
-  
+    
   return (
     <div>
       {/* Hero Section */}

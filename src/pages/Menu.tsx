@@ -21,19 +21,19 @@ const Menu = () => {
         name: 'Steak Basic',
         description: 'Porco, Frango, Salsichão ou Coraçãozinho',
         price: 'R$ 14',
-        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/imagem_2025-04-25_104340480.png?raw=true'
+        image: 'src/assets/Porco-(2).jpeg'
       },
       {
         name: 'Steak Angus',
         description: 'Boi Angus, MeatBall Angus, Linguiça de Costela Angus, Muçarela, Medalhão de Frango',
         price: 'R$ 20',
-        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/imagem_2025-04-25_104013068.png?raw=true'
+        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/Lingui%C3%A7a-de-costela(1).jpeg?raw=true'
       },
       {
         name: 'Steak Premium',
         description: 'Denver Steak Angus, Cordeiro, Kafta de Cordeiro',
         price: 'R$ 26',
-        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/imagem_2025-04-25_103501901.png?raw=true'
+        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/Boi-(3).jpeg?raw=true'
       }
     ],
     bebidas: [
@@ -53,7 +53,7 @@ const Menu = () => {
         name: 'Long Neck Especial',
         description: 'Heineken, Heineken 0, Corona, Becks, Stella s/ Glúten',
         price: 'R$ 14',
-        image: 'https://images.pexels.com/photos/4276950/pexels-photo-4276950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        image: 'https://github.com/arthurdgrossi/imagens-steakme/blob/main/heineken.jpg?raw=true'
       }
     ],
     especiais: [

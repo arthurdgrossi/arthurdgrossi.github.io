@@ -41,17 +41,17 @@ const About = () => {
     {
       year: '2018',
       title: 'Prêmio Gastronômico',
-      description: 'Reconhecimento como melhor casa de espetinhos de Belo Horizonte.'
+      description: 'Reconhecimento como melhor casa de espetos de Belo Horizonte.'
     },
     {
       year: '2020',
       title: 'Menu Renovado',
-      description: 'Lançamento de novas opções de espetinhos e acompanhamentos.'
+      description: 'Lançamento de novas opções de espetos e acompanhamentos.'
     },
     {
       year: '2023',
       title: 'Delivery',
-      description: 'Expansão para serviço de delivery em toda região metropolitana.'
+      description: 'Expansão para serviço de delivery em algumas partes da região metropolitana.'
     }
   ];
   
@@ -117,14 +117,14 @@ const About = () => {
                 preparados com carnes selecionadas e temperos exclusivos.
               </p>
               <p className="text-lg">
-                Com o passar dos anos, nos tornamos referência na produção de espetinhos em 
+                Com o passar dos anos, nos tornamos referência na produção de espetos em 
                 Belo Horizonte e expandimos para o serviço de catering em eventos na região 
                 metropolitana.
               </p>
             </div>
             <div>
               <img 
-                src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1600" 
+                src="https://github.com/arthurdgrossi/imagens-steakme/blob/main/20-IMG_7185.jpg?raw=true" 
                 alt="SteakMe História" 
                 className="rounded-lg shadow-xl"
               />
